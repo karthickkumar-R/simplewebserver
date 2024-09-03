@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:03-09-2024
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -50,7 +50,9 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+![alt text](<OUTPUT 1.png>)
 
+![alt text](<OUTPUT 2.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
